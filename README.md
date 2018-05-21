@@ -51,3 +51,6 @@ Random base with random padding:
 ```
 
 3) Take any representation and use it in commands such as `ping`. You can also use it for a command and control endpoint.
+
+4)Sampl Output:
+![outputofipfuscator](https://user-images.githubusercontent.com/20638690/40312270-04bd09ea-5d30-11e8-8758-c5f5481e7250.PNG)
