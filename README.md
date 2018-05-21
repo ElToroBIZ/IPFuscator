@@ -52,7 +52,7 @@ Random base with random padding:
 
 3) Take any representation and use it in commands such as `ping`. You can also use it for a command and control endpoint.
 
-4)Sampl Output:
+4)Sample Output:
 ![outputof ipfuscator](https://user-images.githubusercontent.com/20638690/40312673-2071f668-5d31-11e8-9522-76b916adc0c1.PNG)
 
 ![ping response](https://user-images.githubusercontent.com/20638690/40312690-2d1f0658-5d31-11e8-9cdd-605018f9eb8d.PNG)
